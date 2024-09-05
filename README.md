@@ -5,3 +5,4 @@ This is the README file for the "my_pull_exercise", which is my favorite repo ev
 I like the color blue.
 
 My name is Tommy Seternus and this is my pull repo for IGME 201!
+This is my favorite practice exercise so far!
