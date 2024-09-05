@@ -1,6 +1,6 @@
 # my_pull_exercise
 
-This is my favorite repo in my 8am class.
+This is the README file for the "my_pull_exercise", which is my favorite repo ever!
 
 I like the color blue.
 
